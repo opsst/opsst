@@ -4,8 +4,9 @@ Originally, I was interested in the medical and computer science fields, but now
 
 <div>
 <img class="inline-block"  align="center" src="https://github-readme-stats.vercel.app/api?username=opsst&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 <hr>
-<h2>Contract me</h2>
+<h3>Contract me</h3>
 <a href="https://www.instagram.com/opsst_/"><img src="https://img.icons8.com/fluency/44/000000/instagram-new.png"/></a>
 <a href="https://www.linkedin.com/in/pisit-jaiton-5b307b201/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   
