@@ -4,8 +4,6 @@ Originally, I was interested in the medical and computer science fields, but now
 
 <div>
 <img class="inline-block"  align="center" src="https://github-readme-stats.vercel.app/api?username=opsst&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</div>
-![580b57fcd9996e24bc43c521](https://user-images.githubusercontent.com/64339510/147830375-2f5a3f37-1444-476a-b6ee-68434f3939f9.png)
 
 
 <!--
