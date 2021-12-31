@@ -4,7 +4,7 @@ Originally, I was interested in the medical and computer science fields, but now
 
 <div>
 <img class="inline-block" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opsst&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-  <div style="padding:6px"></div>
+  <div style="padding:2px"></div>
 <img class="inline-block"  align="center" src="https://github-readme-stats.vercel.app/api?username=Opsst&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </div>
 <!--
