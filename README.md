@@ -6,7 +6,6 @@ Originally, I was interested in the medical and computer science fields, but now
 <img class="inline-block"  align="center" src="https://github-readme-stats.vercel.app/api?username=opsst&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
 
-![Image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Finstagram-logo&psig=AOvVaw2u6VhZ2-segwBzrpwVCfR_&ust=1641050190032000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCUh7-qjvUCFQAAAAAdAAAAABAD)
 
 <!--
 **opsst/opsst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
