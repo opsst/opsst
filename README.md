@@ -5,7 +5,7 @@ Originally, I was interested in the medical and computer science fields, but now
 <div>
 <img class="inline-block"  align="center" src="https://github-readme-stats.vercel.app/api?username=opsst&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
-<a href="https://google.com"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://www.instagram.com/opsst_/"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png"/></a>
 <!--
 **opsst/opsst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
